@@ -1,0 +1,7 @@
+A graphical presentation of age distribution for the students recruited in the Student Alcohol Consumption Dataset. 
+
+Author: Ritah Nabunje
+Data Source : Kaggle via https://www.kaggle.com/uciml/student-alcohol-consumption
+Date: 24-06-2021
+
+The graph was prepared using R version 4.0.3, and the Rscript is available as "student-merge_and_graph.R".
